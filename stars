@@ -1,0 +1,7 @@
+stars = '*'
+string = ''
+for star in stars:
+    string = string + star
+    print(string)
+    print(string*2)
+

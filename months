@@ -1,0 +1,3 @@
+months = ["январь","февраль","март"]
+for month in reversed(months):
+    print(month)

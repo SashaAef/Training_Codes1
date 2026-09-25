@@ -1,0 +1,7 @@
+for message_count in range(1,11):
+    if message_count == 1:
+        print('У вас',message_count,'сообщение')
+    elif message_count >= 1 and message_count <= 4:
+        print('У вас',message_count,'сообщения') 
+    else:
+        print('У вас',message_count,'сообщений') 

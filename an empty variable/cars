@@ -1,0 +1,4 @@
+count = ''
+for i in reversed(range(1,11)):
+    count = count + str(i) + ','
+print(count,'Поехали!')

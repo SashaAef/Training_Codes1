@@ -1,0 +1,5 @@
+list = ['яблоко','груша','банан']
+number = 1
+for i in list:
+    print(number,i)
+    number += 1
